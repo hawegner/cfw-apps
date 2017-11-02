@@ -1,0 +1,12 @@
+[app]
+name: Temperature
+category: Tests
+author: Harald Wegner
+icon: icon.png
+desc: Measure temperature in Celsius and Fahrenheit using NTC resistor on I1
+url: 
+exec: Temperature.py
+managed: yes
+uuid: 80bf22d0-bfe7-11e7-8f1a-0800200c9a66
+version: 1.0
+firmware: >=0.9.0
